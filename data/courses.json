@@ -1,34 +1,101 @@
 [
     {
-        "id": "01",
-        "name": "Breaking News"
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "DevOps Fundamental Course",
+        "author": {
+            "name": "Jimmy Dane",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "The DevOps Fundamentals Course is designed to provide the core education necessary to build your DevOps vocabulary and to understand its principles and practices DevOps tools . With the help of key DevOps Culture,concepts and terminology, real life case studies, examples and interactive group discussions and extensive exercises in each module you will acquire a fundamental understanding of DevOps. Course highlight: You will have access to AWS account to practice everything on your own (Related to AWS DevOps and other Integration and Deployment) You will get video recording from each class Practical assignments that help you get familiar with real-world DevOps Culture and Tools Group activity among students to share knowledge Real-Time experiences share with the students Online Test Exam Course Materials"
     },
     {
-        "id": "02",
-        "name": "Regular News"
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Professional Cyber Security Career",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "details": "Cyber Security is a vital part of day to day Information Technology domain. If you are a programmer, system analyst, system administrator, students or a general computer user, it is better to understand IT Security/ Cyber Security to keep yourself safe and protected from cyber threats and cyber criminals. This course is designed to mentor you with practical labs, industry knowledge & real-life experience. After successful completion of this course you will have a solid baseline knowledge and confidence to become a IT Security Analyst /Cyber Security Analyst ."
     },
     {
-        "id": "03",
-        "name": "International News"
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "03",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "ReactJs - The Complete Guide",
+        "author": {
+            "name": "Jennifer Wood",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "details": "Learn React or dive deeper into it. Learn the 'What', 'Why' and 'How' of ReactJs, solve assignments, practice in demo projects, and build one big application that is improved throughout the course. The whole course is designed to help a beginner to be an expert in ReactJs using Hooks, Redux, and other modern features. Throughout the course, all the topics will be discussed with real-time project implementation and at the end of the day, a final project will be given to everyone. Course highlight: Build powerful, fast, user-friendly, and reactive web apps Provide amazing user experiences by leveraging the power of JavaScript with ease Get a proper idea of React hooks and lifecycle Master fundamental concepts behind structuring Redux applications"
     },
     {
-        "id": "04",
-        "name": "Sports"
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 733,
+        "title": "Data Structures",
+        "author": {
+            "name": "Theo Minh Châu",
+            "published_date": "2022-08-25 06:03:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+        "details": "A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this online course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures."
     },
     {
-        "id": "05",
-        "name": "Entertainment"
+        "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 127,
+        "title": "Algorithmic",
+        "author": {
+            "name": "Ukrainska Pravda",
+            "published_date": "2022-08-25 18:53:49",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+        "details": "This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second)."
     },
     {
-        "id": "06",
-        "name": "Culture"
-    },
-    {
-        "id": "07",
-        "name": "Arts"
-    },
-    {
-        "id": "08",
-        "name": "All News"
+        "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 300,
+        "title": "Introduction to Databases",
+        "author": {
+            "name": "",
+            "published_date": "2022-08-24 22:30:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "details": "In this course, you will be introduced to databases and explore the modern ways in which they are used. Learn to distinguish between different types of database management systems then practice basic creation and data selection with the use of Structured Query Language (SQL) commands. "
     }
 ]
