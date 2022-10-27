@@ -21,14 +21,13 @@ app.get('/courses', (req, res) => {
 
 app.get('/categories/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
     const seletedData = courses.find(course => course.category_id == id);
     res.send(seletedData);
 })
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const seletedData = courses.find(course => course.id == id);
+    const seletedData = courses.find(course => course._id == id);
     res.send(seletedData);
 })
 
